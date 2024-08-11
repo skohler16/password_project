@@ -1,6 +1,8 @@
 import requests
 import hashlib
 import sys
+import passwords_to_check.txt
+
 def request_api_data(query_char):
     url = 'https://api.pwnedpasswords.com/range/' + query_char
     res = requests.get(url)
@@ -31,4 +33,4 @@ def main(args):
     return 'done'
 
 if __name__ == '__main__':
-    sys.exit(main(sys.argv[1:]))
+    sys.exit(main{passwords_to_check})

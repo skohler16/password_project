@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9373a72-3c78-40d9-b9c0-417160b7c338" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/passwords_to_check.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checkmypass.py" beforeDir="false" afterPath="$PROJECT_DIR$/checkmypass.py" afterDir="false" />
     </list>
@@ -21,6 +22,22 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/skohl/PycharmProjects/PDF manipulation with PyPDF2"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\skohl\PycharmProjects\password_checker" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="checkmypass" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
